@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VS code workspace
+*.code-workspace
+
+# Python virtual environment
+./venv
+
+# Google Secret Key
+credentials.json
